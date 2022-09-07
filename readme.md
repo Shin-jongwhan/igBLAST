@@ -1,6 +1,15 @@
 # NCBI igBLAST
 ## 220907
 
+
+### link
+1. NCBI igBLAST
+- https://ncbi.github.io/igblast/
+2. IMGT reference 
+- https://www.imgt.org/vquest/refseqh.html#VQUEST
+
+### <br/><br/><br/>
+
 ### How to use
 1. install
 - NCBI igBLAST
