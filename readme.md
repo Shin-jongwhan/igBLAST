@@ -4,7 +4,9 @@
 
 ### link
 1. NCBI igBLAST
-- https://ncbi.github.io/igblast/
+- description : https://ncbi.github.io/igblast/
+- install : https://ftp.ncbi.nih.gov/blast/executables/igblast/release/LATEST/
+
 2. IMGT reference 
 - https://www.imgt.org/vquest/refseqh.html#VQUEST
 
