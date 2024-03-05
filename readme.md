@@ -45,6 +45,7 @@ $ [igblast_dir]/bin/makeblastdb -parse_seqids -dbtype nucl -in human_gl_J.fasta
 ### <br/><br/>
 
 5. igblastn (for nucleotide)
+- for TCR : you have to use option '-ig_seqtype TCR'
 ```
 [igblast_dir]/bin/igblastn -germline_db_V database/human_gl_V.fasta -germline_db_J database/human_gl_J.fasta -germline_db_D database/human_gl_D.fasta -organism human -query test/test.fasta -auxiliary_data optional_file/human_gl.aux -show_translation > igblast_test.txt
 ```
